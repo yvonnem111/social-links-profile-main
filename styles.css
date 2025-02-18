@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Inter;
+    src: url(./assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+body{
+    font-family: Inter, Arial, sans-serif;
+    font-size: 14px;
+}
